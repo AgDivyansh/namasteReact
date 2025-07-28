@@ -1,0 +1,23 @@
+{
+  "name": "1-lecture",
+  "version": "1.0.0",
+  "description": "This is namaste react by DIvyansh Agarwal",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgDivyansh/namasteReact.git"
+  },
+  "keywords": [],
+  "author": "Divyansh Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgDivyansh/namasteReact/issues"
+  },
+  "homepage": "https://github.com/AgDivyansh/namasteReact#readme",
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
